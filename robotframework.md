@@ -277,7 +277,8 @@ Search using different search engines
 
  
 #####  Create a file under ‘Tests’ folder with .robot extension. The .robot files are considered as Test Suites by Robot Framework.
-![Screenshot of My Application](../../Pictures/Screenshot%20from%202024-02-21%2022-09-19.png)
+![Screenshot from 2024-02-21 22-09-19](https://github.com/Aakash-kumar-au49/Robotframework/assets/109100208/a6405ed2-d3bf-41ea-8c04-cd807f1f6a37)
+
 
 ## Robot File:-
 ``````
